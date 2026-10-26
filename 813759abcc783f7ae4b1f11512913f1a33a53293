@@ -1,0 +1,38 @@
+proxy/anthropic.go
+  9250befac606819d 193-208,1686,2147
+proxy/anthropic_codex_websearch.go
+  9250befac606819d 6,9,25,264,326,339,341-343,356,358-364,366-372,381-384,426-524
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "813759abcc783f7ae4b1f11512913f1a33a53293",
+  "prompts": {
+    "825f9a11145a1a20": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f89a19fc-da7c-4c22-b056-11360643bfae",
+        "model": "glm_for_coding"
+      },
+      "human_author": "TsinHzl <tsinhzl@icloud.com>",
+      "messages": [],
+      "total_additions": 466,
+      "total_deletions": 4,
+      "accepted_lines": 456,
+      "overriden_lines": 0
+    },
+    "9250befac606819d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "caaf778e-125a-4d65-818b-b5ee8e0e43d1",
+        "model": "glm-5.3"
+      },
+      "human_author": "TsinHzl <tsinhzl@icloud.com>",
+      "messages": [],
+      "total_additions": 154,
+      "total_deletions": 11,
+      "accepted_lines": 152,
+      "overriden_lines": 0
+    }
+  }
+}
